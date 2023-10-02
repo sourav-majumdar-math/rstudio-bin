@@ -21,7 +21,7 @@ provides=("rstudio-desktop=${pkgver}")
 options=(!strip)
 
 sha256sums_x86_64=(
-52f513f75af83032e7e6a7402a2c2c4e65d65a298b1838454b05c31831d43494
+24083e5c32fb3ad759a3e43fffe8726eb9f82280dd528ef6c178b8cfefadfad2
 )
 
 source_x86_64=("https://download1.rstudio.org/electron/jammy/amd64/rstudio-${_pkgver}-amd64.deb"
